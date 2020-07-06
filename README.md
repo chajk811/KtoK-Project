@@ -8,3 +8,7 @@ mini-project with react-native, this project's goal is to implement finding path
  1) after git clone ~, run command `npm i` or `npm install`
 
  2) `npm run android` or `yarn run android`
+
+
+
+test
